@@ -1,6 +1,6 @@
 - 👋 Olá, Me chamo Rayron.
 - 👀 Meus interesses atuais são aprender Python e assuntos relacionados a area de Segurança da informação (Red Team).
 - 🌱 Atualmente estudo SGI e faço cursos de programação em python.
-- 💞️ Novos projetoss vindo atona.
+- 💞️ Novos projetos vindo.
 - 📫 Para contato comigo mande um email para  rayron2013@gmail.com.
 -    Obrigado por lêr :) .
