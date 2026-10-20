@@ -1,5 +1,5 @@
 - 👋 Olá, Me chamo Rayron.
-- 👀 Meus interesses atuais são aprender Python e assuntos relacionados a Testes e automação.
+- 👀 Meus interesses atuais são aprender Python e assuntos relacionados a automação.
 - 🌱 Atualmente terminando a faculdade em SGI e faço cursos de programação em python.
 - 💞️ Novos projetos vindo.
 - 📫 Para contato comigo mande um email para  rayron2013@gmail.com.
